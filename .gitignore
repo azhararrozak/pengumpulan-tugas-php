@@ -1,0 +1,24 @@
+# Sistem Operasi Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Folder dan file terkait ikon Mac
+Icon
+._*
+
+# File dari sistem file macOS (AppleDouble file)
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.fseventsd
+
+# Metadata per disk yang dapat diabaikan
+.DiskUtility*
+
+# macOS cache file untuk thumbnail folder
+.metadata_never_index
+
+# Atribut Finder yang dapat menyebabkan konflik
+.fseventsd
+
