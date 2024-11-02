@@ -7,8 +7,7 @@ return [
         'Perangkat Lunak',
         'Jaringan Komputer'
     ],
-    'file' => ['docx', 'pdf', 'zip'],
+    'file' => ['docx', 'pdf', 'doc'],
     'ukuran' => 100000000,
     'kirim_ulang' => false
 ];
-
